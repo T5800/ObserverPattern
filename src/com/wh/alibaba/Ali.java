@@ -30,6 +30,9 @@ public class Ali {
         boss.detach(nba);
         boss.Notify();
 
+        secretary.detach(nba);
+        secretary.Notify();
+
 
     }
 }
